@@ -16,4 +16,4 @@ In order to check the Checksum open Powershell and CD into the file path and run
 
 Check The Checksum to make sure you got the right file please.
 
-Checksum: ``
+Checksum: `1EAC8DDEE405F01B94D096F45906C93C8B4D79A384918ED10D75FD5004C724FD`
