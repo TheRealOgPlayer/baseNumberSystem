@@ -17,6 +17,12 @@ Everthing Under This Point Is Only For Verison 0.2
 - Enabling it will give you more information on why the program is not working.
 - The debug info is given to you on the crash prompt.
 
+# Decoder
+The decoder is the orignal program. This is the program that will take a Base 10 number and convert it to any base you want.
+
+# Encoder
+The encoder is the new program. This program allows you to take any base number and convert it to Base 10.
+
 # About
 These programs allow you convert any number to and from decimal (Base 10) we use base 10 in our everyday life and this is a tool you can use to encode messages and decode messages. I hope you enjoy it is all. 
 
