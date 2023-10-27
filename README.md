@@ -25,8 +25,8 @@ In order to check the Checksum open Powershell and CD into the file path and run
 
 Check The Checksum to make sure you got the right file please.
 
-Encoder - Checksum: ``
-Decoder - Checksum: ``
+- Encoder - Checksum: ``
+- Decoder - Checksum: ``
 
 
 
