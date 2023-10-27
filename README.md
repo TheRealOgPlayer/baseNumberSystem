@@ -1,3 +1,39 @@
+# Version 0.2
+Everthing Under This Point Is Only For Verison 0.2
+
+# Changes
+Removed some bugs that would cause the program to crash. 
+Made the interface more user-friendly
+Added a second program that allows you to convert any base decimal.
+Program one is called the Decoder(This is the original program)
+Program Two is called the Encoder(This is the new program)
+Removed Restrictions, although not really. There are still restrictions but it will always attempt to solve the problem you gave it but if it ends up failing then it will give you an error.
+Added Debug Mode
+
+# Debug Mode
+What is it? 
+In both the encoder and the decoder on app startup you will be asked if you want to enable debug mode. 
+It is disabled by defult
+To enable it just type 'Y' inside the console on startup when prompted to.
+Enabling it will give you more information on why the program is not working.
+The debug info is given to you on the crash prompt.
+
+# About
+These programs allow you convert any number to and from decimal (Base 10) we use base 10 in our everyday life and this is a tool you can use to encode messages and decode messages. I hope you enjoy it is all. 
+
+# Checksum
+In order to check the Checksum open Powershell and CD into the file path and run the `Get-FileHash [FILE NAME]` command.
+
+Check The Checksum to make sure you got the right file please.
+
+Encoder - Checksum: ``
+Decoder - Checksum: ``
+
+
+
+# Version 0.1
+Everthing Under This Point Is Only For Verison 0.1
+
 # baseNumberSystem
 Use Any Base Number System You Want Be That Base 10 Or Base 16
 This script was made by therealogplayer on Discord
