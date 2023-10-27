@@ -23,6 +23,9 @@ The decoder is the orignal program. This is the program that will take a Base 10
 # Encoder
 The encoder is the new program. This program allows you to take any base number and convert it to Base 10.
 
+# Info
+- Not a limit however base 62 (sexagenbidecimal(?)) would be the most accurate, anything after and the symbols are just randomly pressed on my keyboard so.... I may end up improving that but if you are reading this then base 62 is the most accurate.
+
 # About
 These programs allow you convert any number to and from decimal (Base 10) we use base 10 in our everyday life and this is a tool you can use to encode messages and decode messages. I hope you enjoy it is all. 
 
