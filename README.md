@@ -31,8 +31,8 @@ In order to check the Checksum open Powershell and CD into the file path and run
 
 Check The Checksum to make sure you got the right file please.
 
-- Encoder - Checksum: ``
-- Decoder - Checksum: ``
+- Encoder - Checksum: `42CC1D9C120A960BB55171B7464C60B4B766CF5577C50A4D71EB79BC39339B58`
+- Decoder - Checksum: `D3B99723F7A879DFD819BA1602D6EB0AAFEF009D3A3F57C602BC5C4EAA38847A`
 
 
 
