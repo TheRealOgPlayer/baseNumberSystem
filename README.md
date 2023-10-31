@@ -55,7 +55,7 @@ Not a limit however base 62 (sexagenbidecimal(?)) would be the most accurate, an
 
 
 # About
-This program allows you to have any base number system you want. This could be useful if you need to use a standered base like base 16(Hexadecimal) or base 2(Binary). It could also be used just for fun. I hope you enjoy and get a good use out of it.
+This program allows you to have any base number system you want. This could be useful if you need to use a standard base like base 16(Hexadecimal) or base 2(Binary). It could also be used just for fun. I hope you enjoy and get a good use out of it.
 
 # Checksum
 In order to check the Checksum open Powershell and CD into the file path and run the `Get-FileHash [FILE NAME]` command.
